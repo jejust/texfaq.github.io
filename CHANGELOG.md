@@ -6,6 +6,12 @@ file. Changes prior to the switch to Markdown format are available from
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## 2021-12-28
+
+### Changed
+
+- Q-missbegdoc: Correction of a typo.
+
 ## 2021-12-27
 
 ### Changed
